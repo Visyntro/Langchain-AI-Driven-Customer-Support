@@ -1,3 +1,5 @@
+# For the code, please change the branch to 'master'  
+
 # Langchain-AI-Driven-Customer-Support
 The Langchain project is designed to revolutionize customer support by utilizing Large Language Models (LLMs). The core objective is to develop a customer support application that delivers intelligent, context-aware responses, significantly improving the efficiency and effectiveness of customer interactions.
 
@@ -87,4 +89,3 @@ Implementing multi-retrieval chains for database interactions.
 
 Utilizing the Whisper model for speech-to-text in voice interactions.
 
-# For the code, please change the branch to 'master'  
